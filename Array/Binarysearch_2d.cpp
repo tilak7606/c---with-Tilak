@@ -8,7 +8,7 @@ int main()
     int row = matrix.size();
     int col = matrix[0].size();
     int key;
-    cout << "Enter the key element " << endl;
+    cout << "Enter the element " << endl;
     cin >> key;
 
     int start = 0;
